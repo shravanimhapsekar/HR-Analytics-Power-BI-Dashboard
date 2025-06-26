@@ -32,7 +32,7 @@ To address this, a data-driven solution is needed to analyze patterns in employe
 8. Male Employees Show Higher Attrition : 140 males resigned compared to 79 females. Though this might reflect the gender distribution in the company, it suggests male employees might be more prone to leaving.
 
 ## Acknowledgements
-This project was inspired by Rishabh Mishra (youtube).
+This dashboard is built as part of a Data Visualization and Analytics learning project. Inspired by Rishabh Mishra – YouTube.
 
 
 
